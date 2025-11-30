@@ -50,10 +50,15 @@ and building projects that feel **aesthetic, functional, and human**.
 <!-- =========================   SOCIAL ========================= -->
 
 ## 🕊️ Connect With Me  
+<h3 align="left">Connect With Me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sinthuha-nadesan" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://www.hackerrank.com/sinthuha" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"/></a>
+<a href="www.linkedin.com/in/sinthuha-nadesan-16nn11" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+
+  <a href="https://www.hackerrank.com/sinthuha" target="_blank">
+     <img src="https://cdn.simpleicons.org/hackerrank/2EC866" height="40" width="40"/>
+  </a>
 </p>
+
 
 ---
 
