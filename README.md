@@ -1,25 +1,85 @@
-<h1 align="center">Welcome to my GitHub profile. Hi🙌 I'm Sinthuha.</h1>
-<h3 align="center">🎓 I’m an undergraduate at the Faculty of IT, University of Moratuwa. Passionate about technology and continuous learning. Currently exploring full-stack development and cloud computing.👩‍💻 Eager to build real-world projects and grow as a developer.</h3>
+<!-- =========================   HEADER ART   ========================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinthuha-n&label=Profile%20views&color=0e75b6&style=flat" alt="sinthuha-n" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinthuha-n" alt="sinthuha-n" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=32&duration=3500&pause=800&color=FF6FAE&center=true&vCenter=true&width=780&lines=Hey+there%2C+I'm+Sinthuha+🙌;Welcome+to+my+GitHub+profile;IT+Undergraduate+at+UOM;Crafting+code+with+creativity" />
 
-- 📫 How to reach me **nadasinthu09@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sinthuha-nadesan"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinthuha nadesan" height="30" width="40" /></a>
-<a href="https://medium.com/@sinthuha09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sinthuha09" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sinthuha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sinthuha" height="30" width="40" /></a>
+<!-- SOFT BORDER LINE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB7D5&height=3"/>
+</div>
+
+<br/>
+
+<!-- =========================   ABOUT SECTION   ========================= -->
+
+## 🌙 About Me  
+
+> _“Between logic and creativity… that’s where I build.”_
+
+Hi! I'm **Sinthuha**, an IT undergraduate at **University of Moratuwa (FIT)**,  
+shaping myself into **IT industry** with a touch of creativity.  
+
+I love designing clean UIs, writing elegant backend logic,  
+and building projects that feel **aesthetic, functional, and human**.
+
+### 🎀 Currently  
+- 🌱 Learning **React + Spring Boot**  
+- 🚧 Building real-world projects  
+- 🎯 Dreaming of becoming a **skilled programmer**  
+- ✨ Improving every single day  
+
+---
+
+<!-- =========================   TECH BADGES   ========================= -->
+
+## 🧁 Tech Palette (Not Just Tech — My Colours)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,python,mysql,postgres,azure,git&theme=light" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=E7C6FF&height=60&text=I%20love%20learning%20new%20tools%20that%20make%20me%20better%20everyday&fontSize=22&fontColor=492C66" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinthuha-n&show_icons=true&locale=en&layout=compact" alt="sinthuha-n" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinthuha-n&show_icons=true&locale=en" alt="sinthuha-n" /></p>
+<!-- =========================   SOCIAL ========================= -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinthuha-n&" alt="sinthuha-n" /></p>
+## 🕊️ Connect With Me  
+<p align="left">
+<a href="https://linkedin.com/in/sinthuha-nadesan" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://www.hackerrank.com/sinthuha" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"/></a>
+</p>
 
+---
+
+<!-- =========================   GITHUB ART SECTION   ========================= -->
+
+## 🍃 GitHub Aesthetics  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sinthuha-n&show_icons=true&theme=rose_pine" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sinthuha-n&theme=rose_pine" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinthuha-n&layout=compact&theme=rose_pine" height="170"/>
+
+</div>
+
+---
+
+<!-- =========================   STORY SECTION   ========================= -->
+
+## 📖 My Dev Journey (A Soft Story)
+
+```yaml
+chapter_01: "Started with curiosity 🤍"
+chapter_02: "Fell in love with frontend ✨"
+chapter_03: "Backend felt powerful ⚡"
+chapter_04: "Cloud made everything bigger ☁️"
+chapter_05: "Still learning, still growing 🌱"
