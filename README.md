@@ -64,17 +64,21 @@ and building projects that feel **aesthetic, functional, and human**.
 
 <!-- =========================   GITHUB ART SECTION   ========================= -->
 
-## 🍃 GitHub Aesthetics  
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sinthuha-n&show_icons=true&theme=rose_pine" height="170" />
+### ✨ GitHub Aesthetics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sinthuha-n&theme=rose_pine" height="170"/>
+<img src="https://streak-stats.demolab.com?user=sinthuha-n&theme=transparent&hide_border=true&ring=bb9af7&currStreakLabel=bb9af7" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinthuha-n&layout=compact&theme=rose_pine" height="170"/>
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sinthuha-n&show_icons=true&theme=transparent&hide_border=true&icon_color=bb9af7&title_color=bb9af7" height="165"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sinthuha-n&layout=compact&theme=transparent&hide_border=true&title_color=bb9af7" height="165"/>
 
 </div>
+
+
 
 ---
 
