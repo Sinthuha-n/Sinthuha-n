@@ -51,6 +51,7 @@ and building projects that feel **aesthetic, functional, and human**.
 
 ## 🕊️ Connect With Me  
 <h3 align="left">Connect With Me</h3>
+<div>
 <a href="https://www.linkedin.com/in/sinthuha-nadesan-16nn11/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
@@ -59,6 +60,12 @@ and building projects that feel **aesthetic, functional, and human**.
   <a href="https://www.hackerrank.com/sinthuha" target="_blank">
      <img src="https://cdn.simpleicons.org/hackerrank/2EC866" height="40" width="40"/>
   </a>
+
+  <a href="mailto:nadasinthu09@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+</a>
+
+</div>
 </p>
 
 
