@@ -112,7 +112,10 @@ and building projects that feel **aesthetic, functional, and human**.
 
 ### ✨ GitHub Aesthetics
 
-<img src="https://streak-stats.demolab.com?user=sinthuha-n&theme=transparent&hide_border=true&ring=bb9af7&currStreakLabel=bb9af7" height="165"/>
+<img 
+  src="https://streak-stats.vercel.app/?user=sinthuha-n&theme=transparent&hide_border=true&ring=bb9af7&currStreakLabel=bb9af7" 
+  height="165"
+/>
 
 <br/>
 
