@@ -20,25 +20,60 @@
 > _“Between logic and creativity… that’s where I build.”_
 
 Hi! I'm **Sinthuha**, an IT undergraduate at **University of Moratuwa (FIT)**,  
-shaping myself into **IT industry** with a touch of creativity.  
+shaping myself into the **IT industry** with a touch of creativity.  
 
 I love designing clean UIs, writing elegant backend logic,  
 and building projects that feel **aesthetic, functional, and human**.
 
-### 🎀 Currently  
-- 🌱 Learning **React + Spring Boot**  
-- 🚧 Building real-world projects  
-- 🎯 Dreaming of becoming a **skilled programmer**  
-- ✨ Improving every single day  
+### 🧑‍💻 Currently  
+- Learning **React + Spring Boot**  
+- Building real-world projects  
+- Dreaming of becoming a **skilled programmer**  
+- Improving every single day  
 
 ---
 
 <!-- =========================   TECH BADGES   ========================= -->
 
-## 🧁 Tech Palette (Not Just Tech — My Colours)
+## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,python,mysql,postgres,azure,git&theme=light" />
+### 🧑‍💻 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+</p>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+</p>
+
+### 🔧 Backend Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+</p>
+
+### 🔌 Backend Related (Server / Logic)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
 </p>
 
 <p align="center">
